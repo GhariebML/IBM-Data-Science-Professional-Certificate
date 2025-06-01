@@ -19,6 +19,8 @@ These notes summarize the key concepts, commands, and use cases learned during C
 SELECT column1, column2
 FROM table_name;
 
-🧪 Filtering Data
+### 🧾 Selecting Data
+```sql
+### 🧪 Filtering Data
 SELECT * FROM table_name
 WHERE column = 'value';
