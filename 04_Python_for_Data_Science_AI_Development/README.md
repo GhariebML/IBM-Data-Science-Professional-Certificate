@@ -41,8 +41,6 @@ I successfully completed this course as part of the IBM Data Science Professiona
   </a>
 </p>
 
-> Replace the link above with your actual certificate and upload your certificate image as `certificate.png`.
-
 ---
 
 ## 🌐 Connect with Me
