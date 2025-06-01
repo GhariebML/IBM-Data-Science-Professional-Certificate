@@ -42,7 +42,7 @@ I have successfully completed the IBM Data Science Professional Certificate. You
 
 <p align="center">
   <a href="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c">
-    <img src="./certificate.png" alt="Coursera Certificate" height="400">
+    <img src="./Certificate.png" alt="Coursera Certificate" height="400">
   </a>
 </p>
 
