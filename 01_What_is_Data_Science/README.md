@@ -42,7 +42,7 @@ I successfully completed this course as part of the IBM Data Science Professiona
 
 <p align="center">
   <a href="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c">
-    <img src="https://user-images.githubusercontent.com/84391594/152700811-aaa5b9fc-9b4a-4eda-989d-8402c3dcf741.png" height="430" alt="Coursera Certificate">
+    <img src="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c" height="430" alt="Coursera Certificate">
   </a>
 </p>
 
