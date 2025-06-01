@@ -40,6 +40,12 @@ This repository serves as both a learning archive and a portfolio to demonstrate
 
 I have successfully completed the IBM Data Science Professional Certificate. You can view my certificate [here](https://www.coursera.org/account/accomplishments/specialization/9JPL43YELY5B).
 
+<p align="center">
+  <a href="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c">
+    <img src="./certificate.png" alt="Coursera Certificate" height="400">
+  </a>
+</p>
+
 ---
 
 Feel free to explore the repository to see my work and progress throughout the program.
