@@ -17,3 +17,32 @@ Welcome to my learning portfolio for the **IBM Data Science Professional Certifi
 
 ## 📁 Repository Structure
 
+Each folder includes:
+- 📘 Notes from the course
+- 🧪 Labs and Assignments
+- 📊 Projects and Capstone work (if applicable)
+
+## 🛠️ Tools Used
+
+- Python
+- Jupyter Notebooks
+- Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+- IBM Watson Studio
+- SQL (via Db2)
+
+## 📌 Objective
+
+This repository serves as both a learning archive and a portfolio to demonstrate my data science capabilities to potential collaborators or employers.
+
+---
+
+### ✅ How to Use
+
+You can browse each course folder to explore my work and learning process. All notebooks are in Jupyter format and compatible with IBM Watson Studio or local Jupyter environments.
+
+## 🌐 Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-a-gharieb/))
+- [Email](mailto:mo4u2030@gmail.com)
+
+
