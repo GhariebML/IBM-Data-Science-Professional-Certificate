@@ -48,8 +48,6 @@ Click the certificate image below to view or verify it:
   </a>
 </p>
 
-> Replace `YOUR-COURSE-LINK-HERE` with your actual Coursera certificate link and upload your `certificate.png` in the same folder.
-
 ---
 
 ## 🌐 Connect with Me
