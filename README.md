@@ -36,6 +36,14 @@ This repository serves as both a learning archive and a portfolio to demonstrate
 
 ---
 
+## 🎓 Certification
+
+I have successfully completed the IBM Data Science Professional Certificate. You can view my certificate [here](https://www.coursera.org/account/accomplishments/specialization/9JPL43YELY5B).
+
+---
+
+Feel free to explore the repository to see my work and progress throughout the program.
+
 ### ✅ How to Use
 
 You can browse each course folder to explore my work and learning process. All notebooks are in Jupyter format and compatible with IBM Watson Studio or local Jupyter environments.
