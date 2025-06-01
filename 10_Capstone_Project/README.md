@@ -9,9 +9,9 @@ This Capstone project puts together all the skills and tools acquired throughout
 
 The Capstone Project focuses on demonstrating the data science methodology in practice. The goal is to define a problem, acquire and analyze data, build a model, and derive actionable insights.
 
-> 🧩 **Project Title**: *[Insert Your Project Title Here]*  
-> 📍 **Problem Statement**: *[What issue or question are you trying to solve with data?]*  
-> 📂 **Dataset**: *[Brief description of your dataset — e.g., sourced from Foursquare, Kaggle, or any public API]*
+> 🧩 **Project Title**: *Segmenting and Clustering Neighborhoods in a City*  
+> 📍 **Problem Statement**: How can we use geolocation data and clustering algorithms to help businesses decide the best location to open a new venue?  
+> 📂 **Dataset**: Data retrieved using the Foursquare API along with public data about neighborhoods in a city.
 
 ---
 
@@ -30,19 +30,19 @@ The Capstone Project focuses on demonstrating the data science methodology in pr
 ## 🔍 Project Steps
 
 1. **Data Collection**  
-   Collected and cleaned relevant datasets using APIs and web scraping.
+   Collected neighborhood data using public sources and enriched it with Foursquare location data.
 
 2. **Exploratory Data Analysis (EDA)**  
-   Performed EDA to understand trends, outliers, and relationships.
+   Identified common venues and patterns across neighborhoods.
 
 3. **Data Modeling**  
-   Applied clustering models such as K-Means for segmentation.
+   Used K-Means clustering to segment neighborhoods into similar groups.
 
 4. **Visualization**  
-   Mapped results using interactive tools and data dashboards.
+   Displayed clustered neighborhoods using Folium interactive maps.
 
 5. **Conclusion & Recommendations**  
-   Interpreted results and offered insights backed by data.
+   Provided insights into which areas are most suitable for different business types based on neighborhood characteristics.
 
 ---
 
@@ -59,7 +59,7 @@ The Capstone Project focuses on demonstrating the data science methodology in pr
 
 ![IBM Capstone Certificate](./Certificate.png)
 
-[🔗 View Verified Certificate](https://coursera.org/share/your_certificate_link_here)
+[🔗 View Verified Certificate](https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c)
 
 ---
 
@@ -71,4 +71,3 @@ The Capstone Project focuses on demonstrating the data science methodology in pr
 ---
 
 > 🚀 This Capstone project is a culmination of 10 courses in data science, preparing me for real-world data-driven challenges.
-
