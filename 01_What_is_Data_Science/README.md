@@ -38,15 +38,15 @@ A data scientist not only possesses technical knowledge in programming, statisti
 
 ## 🏆 Certificate of Completion
 
-I successfully completed this course as part of the IBM Data Science Professional Certificate. You can verify my certificate by clicking the image below:
+I successfully completed this course as part of the IBM Data Science Professional Certificate.  
+Click the certificate image below to verify:
 
 <p align="center">
   <a href="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c">
-    <img src="https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c" height="430" alt="Coursera Certificate">
+    <img src="./Certificate.png" alt="Coursera Certificate" height="400">
   </a>
 </p>
 
----
 
 ## 📌 Final Thoughts
 This course laid a strong foundation for my data science learning journey. It inspired me to dig deeper into how data can solve problems and how to think like a data scientist. I'm excited to apply these concepts in real-world projects and build on this knowledge through the upcoming courses in the specialization.
