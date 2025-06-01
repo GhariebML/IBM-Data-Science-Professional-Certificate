@@ -38,7 +38,7 @@ I successfully completed this course as part of the IBM Data Science Professiona
 
 <p align="center">
   <a href="https://coursera.org/share/your-certificate-link">
-    <img src="./certificate.png" alt="Coursera Certificate - Data Science Methodology" height="400">
+    <img src="./Certificate.png" alt="Coursera Certificate - Data Science Methodology" height="400">
   </a>
 </p>
 
