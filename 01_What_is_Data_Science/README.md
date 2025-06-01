@@ -23,7 +23,7 @@ A successful data scientist combines technical expertise with the ability to com
 To verify the certificates, click the images below:
 
 <p align="center">
-  <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff">
+  <a href="[https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff](https://www.coursera.org/account/accomplishments/specialization/certificate/9JPL43YELY5B)">
     <img src="https://user-images.githubusercontent.com/84391594/152700811-aaa5b9fc-9b4a-4eda-989d-8402c3dcf741.png" height="430" alt="Coursera Certificate">
   </a>
   <a href="https://www.credly.com/badges/ef824c0d-c158-4cd9-b5ec-d1fa5c400e65/public_url">
