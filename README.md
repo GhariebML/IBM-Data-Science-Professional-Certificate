@@ -50,7 +50,7 @@ You can browse each course folder to explore my work and learning process. All n
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-a-gharieb/))
+- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-a-gharieb/)
 - [Email](mailto:mo4u2030@gmail.com)
 
 
