@@ -33,5 +33,5 @@ Learners explore supervised and unsupervised learning techniques, build predicti
 
 ## 📜 Certificate
 ![Certificate](Certificate.png)  
-🔗 [Verify Certificate](https://coursera.org/verify/9JPL43YELY5B)
+🔗 [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9JPL43YELY5B)
 
