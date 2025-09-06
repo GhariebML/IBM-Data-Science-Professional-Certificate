@@ -60,7 +60,7 @@ In this course, we learn how to:
 
 ![Data Analysis with Python Certificate](./Certificate.png)
 
-[🔗 View Verified Certificate](https://coursera.org/share/YOUR_CERTIFICATE_LINK)
+[🔗 View Verified Certificate](https://coursera.org/share/523a0aceca070b99931dc9431cb31705)
 
 ---
 
@@ -70,5 +70,3 @@ In this course, we learn how to:
 - 📧 [Email](mailto:mo4u2030@gmail.com)
 
 ---
-تحب أبدأ في **Notes.md** دلوقتي؟
-
