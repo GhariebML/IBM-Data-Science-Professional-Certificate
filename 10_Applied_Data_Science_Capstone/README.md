@@ -56,7 +56,7 @@ You'll work through the **Data Science Methodology** to collect, clean, analyze,
 
 ![Applied Data Science Capstone Certificate](./Certificate.png)  
 
-[🔗 View Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
+[🔗 View Verified Certificate](https://coursera.org/share/9b4de008db0f2878d16544ad71bc671c)
 
 ---
 
