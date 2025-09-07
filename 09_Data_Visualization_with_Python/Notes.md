@@ -59,7 +59,6 @@
 
 ## 📂 Related Files  
 - All practical work can be found in the [`Projects/`](./Projects) folder.
-- Datasets are stored in the [`datasets/`](./datasets) folder.
 
 ---
 
