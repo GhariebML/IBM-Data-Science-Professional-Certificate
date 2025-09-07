@@ -1,63 +1,44 @@
-
 # 📊 Data Visualization with Python
 
-This course is part of the **IBM Data Science Professional Certificate** and focuses on creating compelling data visualizations to explore and communicate insights effectively.
+## 📄 Summary  
+This course explores the fundamentals and advanced techniques of **data visualization** using Python.  
+It covers how to create meaningful and impactful charts, graphs, and dashboards that communicate insights effectively.  
+We use libraries such as **Matplotlib**, **Seaborn**, **Plotly**, and **Dash** to present data visually and interactively.
+
+Data visualization is a key skill for data scientists, enabling them to transform raw data into clear and actionable insights.
 
 ---
 
-## 🎯 Course Overview
-In this course, you will learn:
-- The importance of data visualization in data analysis.
-- How to use Python visualization libraries to create meaningful charts.
-- Advanced visualization techniques including geospatial mapping.
-- How to create interactive dashboards with Plotly and Dash.
+## 📑 Main Topics  
+
+- Introduction to Data Visualization Tools (Matplotlib, Seaborn)
+- Basic and Specialized Visualization Tools (bar, pie, box, scatter, bubble)
+- Advanced Visualizations and Geospatial Data (Folium maps, Choropleth)
+- Creating Dashboards with Plotly and Dash
+- Final Project & Exam
 
 ---
 
-## 📂 Modules & Projects
+## 🔑 Key Skills Learned  
 
-### **Module 1 – Introduction to Data Visualization Tools**
-- Overview of visualization concepts.
-- Introduction to **Matplotlib** and **Seaborn**.
-- [📁 Project Notebook](./Projects/Module_1_Introduction_to_Data_Visualization_Tools.ipynb)
-
-### **Module 2 – Basic and Specialized Visualization Tools**
-- Histograms, bar charts, and pie charts.
-- Box plots and scatter plots.
-- [📁 Project Notebook](./Projects/Module_2_Basic_and_Specialized_Visualization_Tools.ipynb)
-
-### **Module 3 – Advanced Visualizations and Geospatial Data**
-- Choropleth maps and geospatial plotting.
-- Folium for interactive maps.
-- [📁 Project Notebook](./Projects/Module_3_Advanced_Visualizations_and_Geospatial_Data.ipynb)
-
-### **Module 4 – Creating Dashboards with Plotly and Dash**
-- Building interactive dashboards.
-- Using callbacks for dynamic content.
-- [📁 Project Notebook](./Projects/Module_4_Creating_Dashboards_with_Plotly_and_Dash.ipynb)
-
-### **Module 5 – Final Project and Exam**
-- Capstone visualization project.
-- Comprehensive assessment.
-- [📁 Project Notebook](./Projects/Module_5_Final_Project_and_Exam.ipynb)
+- Building different types of plots and charts using **Matplotlib** and **Seaborn**
+- Creating interactive dashboards using **Plotly** and **Dash**
+- Visualizing geospatial data with **Folium**
+- Designing impactful and storytelling visualizations
+- Integrating multiple visualizations into one dashboard
 
 ---
 
-## 🛠️ Tools & Technologies Used
-- **Matplotlib** & **Seaborn**
-- **Plotly** & **Dash**
-- **Folium**
-- **Python** (Pandas, NumPy)
-- **Jupyter Notebook**
+## 🏆 Certificate  
+
+![Data Visualization Certificate](./Certificate.png)  
+[🔗 View Verified Certificate](https://coursera.org/share/523a0aceca070b99931dc9431cb31705)
 
 ---
 
-## 📜 Certificate
-![Certificate](./Certificate.png)  
-[🔗 View Verified Certificate](https://coursera.org/verify/professional-cert/9JPL43YELY5B)
+## 🌐 Connect with Me  
 
----
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mohamed-a-gharieb/)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-a-gharieb/)  
 - 📧 [Email](mailto:mo4u2030@gmail.com)
+
+---
